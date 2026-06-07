@@ -5,6 +5,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Workflow-5f4bb6?style=for-the-badge&logo=openai&logoColor=white)
 ![Governance](https://img.shields.io/badge/Human--in--the--Loop-Governance-d6a84f?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Portfolio_Project-1f2544?style=for-the-badge)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20581501.svg)](https://doi.org/10.5281/zenodo.20581501)
 
 **Démonstrateur IA pour équipes métiers : veille, synthèse stratégique, workflows LLM et validation humaine.**
 
