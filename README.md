@@ -286,8 +286,6 @@ Les signaux fournis dans le CSV sont fictifs ou génériques. Ils servent à ill
 
 ---
 
-## Objectif portfolio
-
 Ce projet démontre une capacité à concevoir un workflow IA professionnel, explicable et pédagogique :
 
 - compréhension des besoins métiers ;
@@ -298,4 +296,4 @@ Ce projet démontre une capacité à concevoir un workflow IA professionnel, exp
 - prise en compte des limites ;
 - gouvernance et validation humaine.
 
-Il peut servir de support pour présenter une approche de formation fondée sur des cas concrets, manipulables et directement reliés aux usages professionnels.
+Il présente une approche de formation fondée sur des cas concrets, manipulables et directement reliés aux usages professionnels.
